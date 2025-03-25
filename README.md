@@ -10,7 +10,7 @@ A simple Udemy Clone built using HTML and CSS Flexbox. This project replicates t
 
  🛠️ How to View the Project  
 1. Download or Clone the Repository:  
-   
+   https://github.com/Vishwanathangit/Udemy-Clone.git
 2. Open the index.html file in any web browser.  
 
  📂 Files Included  
